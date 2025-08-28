@@ -7,7 +7,7 @@ A comprehensive statistical analysis and interactive dashboard for evaluating th
 This project analyzes a 4-week A/B test across multiple markets to determine which of three promotional campaigns drives the highest sales performance.
 
 ### Key Findings
-- **Promotion 3** shows the strongest performance with highest average sales
+- **Promotion 1** shows the strongest performance with highest average sales
 - **Statistically significant differences** between promotions (ANOVA p < 0.001)
 - **Revenue lift opportunity** of $10.77k by choosing optimal promotion
 
