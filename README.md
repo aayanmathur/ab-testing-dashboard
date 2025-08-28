@@ -4,7 +4,7 @@ A comprehensive statistical analysis and interactive dashboard for evaluating th
 
 ## Live Demo
 
-**[🔗 View Interactive Dashboard](https://ab-testing-framework-jst6cxd56ofeipuhqwatcg.streamlit.app)**
+**[ View Interactive Dashboard](https://ab-testing-framework-jst6cxd56ofeipuhqwatcg.streamlit.app)**
 
 ##  Project Overview
 
