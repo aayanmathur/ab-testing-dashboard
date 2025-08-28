@@ -2,6 +2,10 @@
 
 A comprehensive statistical analysis and interactive dashboard for evaluating the effectiveness of three different marketing promotions for a fast-food chain's new menu item.
 
+## Live Demo
+
+**[🔗 View Interactive Dashboard](https://ab-testing-framework-jst6cxd56ofeipuhqwatcg.streamlit.app)**
+
 ##  Project Overview
 
 This project analyzes a 4-week A/B test across multiple markets to determine which of three promotional campaigns drives the highest sales performance.
