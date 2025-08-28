@@ -1,4 +1,4 @@
-# 🍟 Fast-Food Marketing Campaign A/B Testing Framework
+# Fast-Food Marketing Campaign A/B Testing Framework
 
 A comprehensive statistical analysis and interactive dashboard for evaluating the effectiveness of three different marketing promotions for a fast-food chain's new menu item.
 
@@ -18,14 +18,14 @@ This project analyzes a 4-week A/B test across multiple markets to determine whi
 - **SciPy/Statsmodels** - Statistical testing
 - **Pandas** - Data manipulation
 
-## 📈 Statistical Methods
+## Statistical Methods
 
 - One-Way ANOVA - Compare means across three promotions
 - Tukey HSD Post-hoc - Identify specific promotion differences
 - Effect Size Analysis - Measure practical significance
 - Descriptive Statistics - Summary metrics by promotion
 
-## 💼 Business Impact
+## Business Impact
 This framework enables data-driven marketing decisions by:
 
 - Quantifying promotional effectiveness
